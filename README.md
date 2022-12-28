@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://github.com/PSYCHO-REXIN/">
         <img
-src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Welcome,+It+Is+Me+Stark"
+src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Welcome,+It+Is+Me+R3X1N"
             alt="Typing SVG"
         />
     </a>
@@ -39,10 +39,7 @@ Some of the languages I use in order of preference.
 
 <p align="center"> 
 
- 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
-
- <img src="https://profile-counter.glitch.me/CYBER-STARK/count.svg" />
-
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 
