@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm rexin </h1>
-<img src="https://i.gifer.com/44TR.gif"/>
-<img src="https://i.pinimg.com/originals/7e/5c/07/7e5c0701fba480e5c59ccf400ea18e55.gif"/>
+
 <h3 align="center">Iam a Basic Programer</h3>
 
 
