@@ -8,10 +8,9 @@ src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Welcome,+I
     </a>
 </p>
 
-<img src="https://i.gifer.com/44TR.gi" alt="" border="0" />
+<img src="https://i.gifer.com/44TR.gif"/>
 
-![Alt text](https://i.pinimg.com/originals/7e/5c/07/7e5c0701fba480e5c59ccf400ea18e55.gif)
-
+<img src="https://i.pinimg.com/originals/7e/5c/07/7e5c0701fba480e5c59ccf400ea18e55.gif"/>
 
 - 👋 Hi, it's me @PSYCHO R3X1N
 
