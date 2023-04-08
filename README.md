@@ -4,7 +4,7 @@
 
 
 
-<img src="https://i.gifer.com/44TR.gif"/>
+<img src="https://jonhnnyweslley.net/pt-br/blog/como-utilizar-ia-para-aumentar-sua-produtividade-em-programacao/tabnine_python_demo.gif"/>
 
 <img src="https://i.pinimg.com/originals/7e/5c/07/7e5c0701fba480e5c59ccf400ea18e55.gif"/>
 
