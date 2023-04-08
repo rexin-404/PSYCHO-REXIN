@@ -1,11 +1,9 @@
-## <!-- Typing SVG -->
-<p align="center">
-    <a href="https://i.gifer.com/origin/af/af05585d921ff30a9aa99543fa337fd8_w200.webp">
-        <img
-src="https://i.gifer.com/44TR.gif"
-        />
-    </a>
-</p>
+<h1 align="center">Hi 👋, I'm rexin </h1>
+<img src="https://i.gifer.com/44TR.gif"/>
+<img src="https://i.pinimg.com/originals/7e/5c/07/7e5c0701fba480e5c59ccf400ea18e55.gif"/>
+<h3 align="center">Iam a Basic Programer</h3>
+
+
 
 <img src="https://i.gifer.com/44TR.gif"/>
 
@@ -55,4 +53,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about **python, php, Html**
 
 - 📫 How to reach me **rexin-404**
+
+
 
