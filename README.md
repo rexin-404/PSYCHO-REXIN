@@ -8,9 +8,9 @@ src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Welcome,+I
     </a>
 </p>
 
-<img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
+<img src="https://i.gifer.com/44TR.gi" alt="" border="0" />
 
-![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
+![Alt text](https://i.pinimg.com/originals/7e/5c/07/7e5c0701fba480e5c59ccf400ea18e55.gif)
 
 
 - 👋 Hi, it's me @PSYCHO R3X1N
@@ -18,7 +18,7 @@ src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Welcome,+I
 
 ### Languages
 Some of the languages I use in order of preference.
-- **Javascript**
+- **php**
 - **Html**
 - **Css**
 - **Python**
@@ -48,13 +48,13 @@ Some of the languages I use in order of preference.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **IG-MP4**
+
+- 🌱 I’m currently learning **Ethical Hacking and Basic Programming**
+
+- 👨‍💻 All of my projects are available at [https://github.com/rexin-404](https://github.com/rexin-404)
+
+- 💬 Ask me about **python, php, Html**
+
+- 📫 How to reach me **rexin-404**
 
