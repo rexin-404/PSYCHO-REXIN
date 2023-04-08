@@ -2,8 +2,7 @@
 <p align="center">
     <a href="https://i.gifer.com/origin/af/af05585d921ff30a9aa99543fa337fd8_w200.webp">
         <img
-src="https://readme-typing-svg.herokuapp.com/?size=30&width=800&lines=Welcome,+It+Is+Me+R3X1N"
-            alt="Typing SVG"
+src="https://i.gifer.com/44TR.gif"
         />
     </a>
 </p>
